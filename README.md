@@ -49,10 +49,6 @@ E o <span class="hljs-string">"NAME-TABLE"</span> pelo nome da tabela que voce d
 <td>Select-DB</td>
 <td>/database/name-db/table/name-table/select/key</td>
 </tr>
-<tr>
-<td>Google Analytics</td>
-<td><a href="https://github.com/RahulHP/dillinger/blob/master/plugins/googleanalytics/README.md">plugins/googleanalytics/README.md</a></td>
-</tr>
 </tbody>
 </table>
-<p class="has-line-data" data-line-start="48" data-line-end="49">Mais Informações em breve</p>
+<p class="has-line-data" data-line-start="47" data-line-end="48">Mais Informações em breve</p>
